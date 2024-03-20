@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="3" time="10.717">
+ <testsuite name="Login to the application" timestamp="2019-01-31T11:33:38" hostname="localhost" time="10.717" errors="0" tests="3" skipped="0" disabled="0" failures="0">
+  <testcase classname="Login to the application" name="Login without username and password inputs" time="5.22" />
+  <testcase classname="Login to the application" name="Login with only valid username" time="2.864" />
+  <testcase classname="Login to the application" name="Submit valid username and valid password" time="2.63" />
+ </testsuite>
+</testsuites>

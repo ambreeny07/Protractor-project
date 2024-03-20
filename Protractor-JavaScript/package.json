@@ -1,0 +1,29 @@
+{
+  "name": "protractor-style-guide",
+  "author": "Osanda Nimalarathna",
+  "license": "MIT",
+  "version": "2.0.1",
+  "description": "Automation style guide using protractor and protractor-helper",
+  "keywords": [
+    "protractor",
+    "protractor-helper",
+    "e2e",
+    "style-guide"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PauloGoncalvesBH/protractor-style-guide"
+  },
+  "dependencies": {
+    "fs-extra": "^7.0.1",
+    "jasmine-reporters": "^2.3.2",
+    "jasmine-spec-reporter": "^4.2.1",
+    "protractor": "latest",
+    "protractor-helper": "latest",
+    "protractor-html-reporter-2": "^1.0.4",
+    "protractor-jasmine2-screenshot-reporter": "^0.5.0"
+  },
+  "devDependencies": {
+    "jasmine-protractor-matchers": "^2.0.0"
+  }
+}
